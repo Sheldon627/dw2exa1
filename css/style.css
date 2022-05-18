@@ -57,7 +57,7 @@ header img:nth-child(2),
 
 
 #hero{
-	background-image: url("../../examen1/img/bg-hero.png");
+	background-image: url("../img/bg-hero.png");
 	background-position: top center;
 	background-size: cover;
 	color: #FFFFFF;
@@ -208,7 +208,7 @@ header img:nth-child(2),
 
 
 #numbers{
-	background-image: url("../../examen1/img/bg-counter.png");
+	background-image: url("../img/bg-counter.png");
 	background-size: cover;
 	background-position: top center;
 	background-attachment: fixed;
